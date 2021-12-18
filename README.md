@@ -1,3 +1,4 @@
+
 # Fronend 구조
 > redux를 사용하지 않았기에 component로만 구성되어있습니다. 
 
@@ -23,4 +24,5 @@ https://www.grammar-checker.link
 + [pages](https://github.com/tlgj255/spellCheckerFrontend/tree/main/src/pages)
 + [static](https://github.com/tlgj255/spellCheckerFrontend/tree/main/src/static)
   > 폰트 및 이미지들이 들어있는 파일입니다. 이미지들은 저작권은 최화영 디자이너님에게 있습니다.
-
+  
+# [Backend 구조](https://github.com/tlgj255/spellChecker)
