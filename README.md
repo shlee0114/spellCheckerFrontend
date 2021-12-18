@@ -1,6 +1,8 @@
 # Fronend 구조
 > redux를 사용하지 않았기에 component로만 구성되어있습니다. 
 
+[최화영 디자이너님](https://hdesigner.creatorlink.net/)이 사이트 디자인을 해주었습니다. 
+
 AWS Amplify를 사용해서 서버를 구성했습니다.
 
 https://www.grammar-checker.link
